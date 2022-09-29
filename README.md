@@ -1,24 +1,18 @@
 # Hello 👋
-
+<br/>
 ## My Name is Patrick L. Branson
-
+<br/>
 <br/>
 Welcome to my GitHub Portfolio
-
 <br/>
 <br/>
 <br/>
-
 # Prefered License
-
 Please see [Apache-2.0 License](./LICENSE) for details
-
 <br/>
 <br/>
 <br/>
-
 # Skills : <br/>
-
 ![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp)
