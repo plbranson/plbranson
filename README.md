@@ -2,9 +2,6 @@
 <br/>
 
 ## My Name is Patrick L. Branson
-<br/>
-<br/>
-
 Welcome to my GitHub Portfolio
 <br/>
 <br/>
