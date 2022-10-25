@@ -8,6 +8,7 @@ Welcome to my GitHub Portfolio
 <br/>
 
 [![Patrick L. Branson's Github States](https://github-readme-stats.vercel.app/api?username=plbranson&show_icons=true&theme=dracula)](https://github.com/plbranson/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=plbranson&layout=compact)](https://github.com/plbranson/github-readme-stats)
 
 
 # Prefered License
