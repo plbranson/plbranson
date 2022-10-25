@@ -7,6 +7,9 @@ Welcome to my GitHub Portfolio
 <br/>
 <br/>
 
+[![Patrick L. Branson's Github States](https://github-readme-stats.vercel.app/api?username=plbranson&show_icons=true&theme=dracula)](https://github.com/plbranson/github-readme-stats)
+
+
 # Prefered License
 Please see [Apache-2.0 License](./LICENSE) for details
 <br/>
